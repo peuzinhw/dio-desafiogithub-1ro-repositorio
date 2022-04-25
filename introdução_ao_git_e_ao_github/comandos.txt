@@ -1,0 +1,4 @@
+adcionar arquivo no commit
+git add .
+ou
+git add -A
